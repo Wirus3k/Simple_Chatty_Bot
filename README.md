@@ -1,4 +1,4 @@
-# Simple Chatty Bot Final code of Project with stages:open_book::computer::computer_mouse:
+# Simple Chatty Bot Final code of Project with stages:robot::frowning_person:
 
 ### Stage :one:<br />
 Teach your assistant to introduce itself in the console.
